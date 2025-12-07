@@ -68,3 +68,11 @@ Computers store text as numbers using **ASCII** or **Unicode**. Each character c
 2. Convert it to decimal.  
 3. Look up the corresponding ASCII character.  
 
+Example:
+Cat in binary is 01000011 01100001 01110100
+
+| Character | ASCII Decimal | Binary      |
+|-----------|---------------|------------|
+| C         | 67            | 01000011   |
+| a         | 97            | 01100001   |
+| t         | 116           | 01110100   |
